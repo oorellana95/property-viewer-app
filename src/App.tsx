@@ -1,25 +1,28 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import 'translations/i18n'
+import 'assets/styles/fonts.css'
+import Filters from './layout/containers/Filters';
+import Header from './layout/containers/Header';
+import { ThemeProvider } from '@mui/material/styles';
+import { useThemeStore } from 'state/useThemeStore';
+import { Grid } from '@mui/material';
+import FilteredTable from 'layout/containers/FilteredTable';
 
 function App() {
+  const { theme } = useThemeStore();
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <ThemeProvider theme={theme}>
+      <Grid container xs={12}>
+        <Grid item xs={12}>
+          <Header />
+        </Grid>
+        <Grid container item xs={12}>
+          <Grid container item xs={4}>
+            <Filters />
+            <FilteredTable />
+          </Grid>
+        </Grid>
+      </Grid>
+    </ThemeProvider>
   );
 }
 

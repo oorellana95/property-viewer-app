@@ -1,0 +1,67 @@
+/* EXPANSIVE FONTS */
+
+@font-face {
+  font-family: 'Expansive';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url(../fonts/expansive-webfont/Expansive-Light.woff);
+}
+
+@font-face {
+  font-family: 'Expansive';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url(../fonts/expansive-webfont/Expansive-Regular.woff);
+}
+
+@font-face {
+  font-family: 'Expansive';
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url(../fonts/expansive-webfont/Expansive-Medium.woff);
+}
+
+@font-face {
+  font-family: 'Expansive';
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+  src: url(../fonts/expansive-webfont/Expansive-Bold.woff);
+}
+
+/* CONCISE FONTS */
+
+@font-face {
+  font-family: 'Concise';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url(../fonts/concise-webfont/Concise-Light.woff);
+}
+
+@font-face {
+  font-family: 'Concise';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url(../fonts/concise-webfont/Concise-Regular.woff);
+}
+
+@font-face {
+  font-family: 'Concise';
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url(../fonts/concise-webfont/Concise-Medium.woff);
+}
+
+@font-face {
+  font-family: 'Concise';
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+  src: url(../fonts/concise-webfont/Concise-Bold.woff);
+}

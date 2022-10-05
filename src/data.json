@@ -1,0 +1,337 @@
+{
+    "cities": [
+        {
+            "name": "Medellin",
+            "code": "MED",
+            "comunas": [
+                {
+                    "number": 1,
+                    "name": "Popular"
+                },
+                {
+                    "number": 2,
+                    "name": "Santa Cruz"
+                },
+                {
+                    "number": 3,
+                    "name": "Manrique"
+                },
+                {
+                    "number": 4,
+                    "name": "Aranjuez"
+                },
+                {
+                    "number": 5,
+                    "name": "Castilla"
+                },
+                {
+                    "number": 6,
+                    "name": "Doce de Octubre"
+                },
+                {
+                    "number": 7,
+                    "name": "Robledo"
+                },
+                {
+                    "number": 8,
+                    "name": "Villa Hermosa"
+                },
+                {
+                    "number": 9,
+                    "name": "Buenos Aires"
+                },
+                {
+                    "number": 10,
+                    "name": "La Candelaria"
+                },
+                {
+                    "number": 11,
+                    "name": "Laureles"
+                },
+                {
+                    "number": 12,
+                    "name": "La America"
+                },
+                {
+                    "number": 13,
+                    "name": "San Javier"
+                },
+                {
+                    "number": 14,
+                    "name": "El Poblado"
+                },
+                {
+                    "number": 15,
+                    "name": "Guayabal"
+                },
+                {
+                    "number": 16,
+                    "name": "Belen"
+                }
+            ]
+        },
+        {
+            "name": "Bello",
+            "code": "BELLO",
+            "comunas": [
+                {
+                    "number": 1,
+                    "name": "Paris"
+                },
+                {
+                    "number": 2,
+                    "name": "La Madera"
+                },
+                {
+                    "number": 3,
+                    "name": "Santa Ana"
+                },
+                {
+                    "number": 4,
+                    "name": "Suarez"
+                },
+                {
+                    "number": 5,
+                    "name": "La Cumbre"
+                },
+                {
+                    "number": 6,
+                    "name": "Bellavista"
+                },
+                {
+                    "number": 7,
+                    "name": "Altos de Niquia"
+                },
+                {
+                    "number": 8,
+                    "name": "Niquia"
+                },
+                {
+                    "number": 9,
+                    "name": "Fortidueño"
+                },
+                {
+                    "number": 10,
+                    "name": "Acevedo"
+                }
+            ]
+        }
+    ],
+    "reporters": [
+        {
+            "phonenumber": "+34623100616",
+            "names": "Oscar",
+            "surnames": "Orellana Gonzalez"
+        }
+    ],
+    "propertyTypes": [
+        {
+            "id": 1,
+            "name": "apartamento"
+        },
+        {
+            "id": 2,
+            "name": "casa"
+        },
+        {
+            "id": 3,
+            "name": "oficina"
+        },
+        {
+            "id": 4,
+            "name": "local"
+        },
+        {
+            "id": 5,
+            "name": "bodega"
+        },
+        {
+            "id": 6,
+            "name": "lote"
+        },
+        {
+            "id": 7,
+            "name": "finca"
+        }
+    ],
+    "propertyStates": [
+        {
+            "id": 1,
+            "name": "sobre plano"
+        },
+        {
+            "id": 2,
+            "name": "en construccion"
+        },
+        {
+            "id": 3,
+            "name": "remodelado"
+        },
+        {
+            "id": 4,
+            "name": "nuevo"
+        },
+        {
+            "id": 5,
+            "name": "viejo"
+        }
+    ],
+    "properties": [
+        {
+            "idProperty": "med-1-1",
+            "cityCode": "MED",
+            "comunaNumber": 1,
+            "zone": "fake zone",
+            "areaInSquareMeters": 100,
+            "address": "fake address",
+            "roomsNumber": 2,
+            "bathroomsNumber": 1,
+            "garagesNumber": 0,
+            "propertyTypeId": "house",
+            "propertyStateId": "in construction",
+            "additionalNotes": [
+                {
+                    "reporter":{
+                        "phonenumber": "+34623100616",
+                        "names": "Oscar",
+                        "surnames": "Orellana Gonzalez"
+                    },
+                    "note": "fake note",
+                    "datetime": "2015-03-25T12:00:00Z"
+                }
+            ],
+
+            "picturesPath": "",
+            "price": 170000000,
+            "isProminent": [{
+                "reporter":{
+                    "phonenumber": "+34623100616",
+                    "names": "Oscar",
+                    "surnames": "Orellana Gonzalez"
+                },
+                "datetime": "2015-03-25T12:00:00Z"
+            }],
+            "contacts": [
+                {
+                    "phonenumber": "fake contact phonenumber 1",
+                    "name": "fake contact name 1"
+                },
+                {
+                    "phonenumber": "fake contact phonenumber 2",
+                    "name": "hola"
+                }
+            ],
+            "datetimeCreated": "2015-03-25T12:00:00Z",
+            "reporter":{
+                "phonenumber": "+34623100616",
+                "names": "Oscar",
+                "surnames": "Orellana Gonzalez"
+            },
+            "enabled": false
+        },
+        {
+            "idProperty": "med-1-2",
+            "cityCode": "MED",
+            "comunaNumber": 1,
+            "zone": "fake zone",
+            "areaInSquareMeters": 100,
+            "address": "fake address",
+            "roomsNumber": 2,
+            "bathroomsNumber": 1,
+            "garagesNumber": 0,
+            "propertyTypeId": "house",
+            "propertyStateId": "in construction",
+            "additionalNotes": [
+                {
+                    "reporter":{
+                        "phonenumber": "+34623100616",
+                        "names": "Oscar",
+                        "surnames": "Orellana Gonzalez"
+                    },
+                    "note": "fake note",
+                    "datetime": "2015-03-25T12:00:00Z"
+                }
+            ],
+
+            "picturesPath": "",
+            "price": 170000000,
+            "isProminent": [{
+                "reporter":{
+                    "phonenumber": "+34623100616",
+                    "names": "Oscar",
+                    "surnames": "Orellana Gonzalez"
+                },
+                "datetime": "2015-03-25T12:00:00Z"
+            }],
+            "contacts": [
+                {
+                    "phonenumber": "fake contact phonenumber 1",
+                    "name": "fake contact name 1"
+                },
+                {
+                    "phonenumber": "fake contact phonenumber 2",
+                    "name": "hola"
+                }
+            ],
+            "datetimeCreated": "2015-03-25T12:00:00Z",
+            "reporter":{
+                "phonenumber": "+34623100616",
+                "names": "Oscar",
+                "surnames": "Orellana Gonzalez"
+            },
+            "enabled": false
+        },
+        {
+            "idProperty": "med-1-3",
+            "cityCode": "MED",
+            "comunaNumber": 1,
+            "zone": "fake zone",
+            "areaInSquareMeters": 100,
+            "address": "fake address",
+            "roomsNumber": 2,
+            "bathroomsNumber": 1,
+            "garagesNumber": 0,
+            "propertyTypeId": "house",
+            "propertyStateId": "in construction",
+            "additionalNotes": [
+                {
+                    "reporter":{
+                        "phonenumber": "+34623100616",
+                        "names": "Oscar",
+                        "surnames": "Orellana Gonzalez"
+                    },
+                    "note": "fake note",
+                    "datetime": "2015-03-25T12:00:00Z"
+                }
+            ],
+
+            "picturesPath": "",
+            "price": 170000000,
+            "isProminent": [{
+                "reporter":{
+                    "phonenumber": "+34623100616",
+                    "names": "Oscar",
+                    "surnames": "Orellana Gonzalez"
+                },
+                "datetime": "2015-03-25T12:00:00Z"
+            }],
+            "contacts": [
+                {
+                    "phonenumber": "fake contact phonenumber 1",
+                    "name": "fake contact name 1"
+                },
+                {
+                    "phonenumber": "fake contact phonenumber 2",
+                    "name": "hola"
+                }
+            ],
+            "datetimeCreated": "2015-03-25T12:00:00Z",
+            "reporter":{
+                "phonenumber": "+34623100616",
+                "names": "Oscar",
+                "surnames": "Orellana Gonzalez"
+            },
+            "enabled": false
+        }
+    ]
+}

@@ -4,7 +4,8 @@ import Box from '@mui/material/Box';
 import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
 import IconButton from '@mui/material/IconButton';
-import MenuIcon from '@mui/icons-material/Menu';
+import FilterAltIcon from '@mui/icons-material/FilterAlt';
+import FilterAltOffIcon from '@mui/icons-material/FilterAltOff';
 import AccountCircle from '@mui/icons-material/AccountCircle';
 import Switch from '@mui/material/Switch';
 import FormControlLabel from '@mui/material/FormControlLabel';
@@ -16,7 +17,7 @@ import { useTranslation } from 'react-i18next';
 import { useThemeStore } from 'state/useThemeStore';
 import { ThemesEnum } from 'assets/styles/theme/ThemesEnum';
 
-export default function MenuAppBar() {
+export default function MenuAppBar(props: any) {
   const { theme, changeTheme } = useThemeStore();
   const [anchorEl, setAnchorEl] = React.useState<null | HTMLElement>(null);
   const { t } = useTranslation()
@@ -47,9 +48,10 @@ export default function MenuAppBar() {
                 edge="start"
                 color="inherit"
                 aria-label="menu"
+                onClick={() => props.onClickFilterIcon()}
                 sx={{ mr: 2 }}
               >
-                <MenuIcon />
+                {props.showFilters? <FilterAltOffIcon /> : <FilterAltIcon />}
               </IconButton>
             </Grid>
             <Grid item xs={4} textAlign="center">

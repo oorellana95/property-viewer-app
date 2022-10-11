@@ -60,7 +60,7 @@ export default function Filters() {
   }
 
   return (
-    <Grid container xs={12} spacing={1} paddingTop={2} paddingX={2}>
+    <Grid container spacing={1} paddingTop={2} paddingX={2}>
       <Grid item>
         <Typography variant="subtitle1" component="div" sx={{ flexGrow: 1 }}>
           {t('filters.title')}

@@ -24,7 +24,7 @@ export const NumericToggleButton = ({
   };
   
   return (
-    <Grid container xs={12} style={{ display: "flex"}}>
+    <Grid container item xs={12} style={{ display: "flex"}}>
       <Typography paddingLeft={2} variant="caption">{label}</Typography>
       <ToggleButtonGroup
         id={id}

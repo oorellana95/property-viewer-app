@@ -332,6 +332,474 @@
                 "surnames": "Orellana Gonzalez"
             },
             "enabled": false
+        },
+        {
+            "idProperty": "med-1-4",
+            "cityCode": "MED",
+            "comunaNumber": 1,
+            "zone": "fake zone",
+            "areaInSquareMeters": 100,
+            "address": "fake address",
+            "roomsNumber": 2,
+            "bathroomsNumber": 1,
+            "garagesNumber": 0,
+            "propertyTypeId": "house",
+            "propertyStateId": "in construction",
+            "additionalNotes": [
+                {
+                    "reporter":{
+                        "phonenumber": "+34623100616",
+                        "names": "Oscar",
+                        "surnames": "Orellana Gonzalez"
+                    },
+                    "note": "fake note",
+                    "datetime": "2015-03-25T12:00:00Z"
+                }
+            ],
+
+            "picturesPath": "",
+            "price": 170000000,
+            "isProminent": [{
+                "reporter":{
+                    "phonenumber": "+34623100616",
+                    "names": "Oscar",
+                    "surnames": "Orellana Gonzalez"
+                },
+                "datetime": "2015-03-25T12:00:00Z"
+            }],
+            "contacts": [
+                {
+                    "phonenumber": "fake contact phonenumber 1",
+                    "name": "fake contact name 1"
+                },
+                {
+                    "phonenumber": "fake contact phonenumber 2",
+                    "name": "hola"
+                }
+            ],
+            "datetimeCreated": "2015-03-25T12:00:00Z",
+            "reporter":{
+                "phonenumber": "+34623100616",
+                "names": "Oscar",
+                "surnames": "Orellana Gonzalez"
+            },
+            "enabled": false
+        },
+        {
+            "idProperty": "med-1-5",
+            "cityCode": "MED",
+            "comunaNumber": 1,
+            "zone": "fake zone",
+            "areaInSquareMeters": 100,
+            "address": "fake address",
+            "roomsNumber": 2,
+            "bathroomsNumber": 1,
+            "garagesNumber": 0,
+            "propertyTypeId": "house",
+            "propertyStateId": "in construction",
+            "additionalNotes": [
+                {
+                    "reporter":{
+                        "phonenumber": "+34623100616",
+                        "names": "Oscar",
+                        "surnames": "Orellana Gonzalez"
+                    },
+                    "note": "fake note",
+                    "datetime": "2015-03-25T12:00:00Z"
+                }
+            ],
+
+            "picturesPath": "",
+            "price": 170000000,
+            "isProminent": [{
+                "reporter":{
+                    "phonenumber": "+34623100616",
+                    "names": "Oscar",
+                    "surnames": "Orellana Gonzalez"
+                },
+                "datetime": "2015-03-25T12:00:00Z"
+            }],
+            "contacts": [
+                {
+                    "phonenumber": "fake contact phonenumber 1",
+                    "name": "fake contact name 1"
+                },
+                {
+                    "phonenumber": "fake contact phonenumber 2",
+                    "name": "hola"
+                }
+            ],
+            "datetimeCreated": "2015-03-25T12:00:00Z",
+            "reporter":{
+                "phonenumber": "+34623100616",
+                "names": "Oscar",
+                "surnames": "Orellana Gonzalez"
+            },
+            "enabled": false
+        },
+        {
+            "idProperty": "med-1-6",
+            "cityCode": "MED",
+            "comunaNumber": 1,
+            "zone": "fake zone",
+            "areaInSquareMeters": 100,
+            "address": "fake address",
+            "roomsNumber": 2,
+            "bathroomsNumber": 1,
+            "garagesNumber": 0,
+            "propertyTypeId": "house",
+            "propertyStateId": "in construction",
+            "additionalNotes": [
+                {
+                    "reporter":{
+                        "phonenumber": "+34623100616",
+                        "names": "Oscar",
+                        "surnames": "Orellana Gonzalez"
+                    },
+                    "note": "fake note",
+                    "datetime": "2015-03-25T12:00:00Z"
+                }
+            ],
+
+            "picturesPath": "",
+            "price": 170000000,
+            "isProminent": [{
+                "reporter":{
+                    "phonenumber": "+34623100616",
+                    "names": "Oscar",
+                    "surnames": "Orellana Gonzalez"
+                },
+                "datetime": "2015-03-25T12:00:00Z"
+            }],
+            "contacts": [
+                {
+                    "phonenumber": "fake contact phonenumber 1",
+                    "name": "fake contact name 1"
+                },
+                {
+                    "phonenumber": "fake contact phonenumber 2",
+                    "name": "hola"
+                }
+            ],
+            "datetimeCreated": "2015-03-25T12:00:00Z",
+            "reporter":{
+                "phonenumber": "+34623100616",
+                "names": "Oscar",
+                "surnames": "Orellana Gonzalez"
+            },
+            "enabled": false
+        },
+        {
+            "idProperty": "med-1-7",
+            "cityCode": "MED",
+            "comunaNumber": 1,
+            "zone": "fake zone",
+            "areaInSquareMeters": 100,
+            "address": "fake address",
+            "roomsNumber": 2,
+            "bathroomsNumber": 1,
+            "garagesNumber": 0,
+            "propertyTypeId": "house",
+            "propertyStateId": "in construction",
+            "additionalNotes": [
+                {
+                    "reporter":{
+                        "phonenumber": "+34623100616",
+                        "names": "Oscar",
+                        "surnames": "Orellana Gonzalez"
+                    },
+                    "note": "fake note",
+                    "datetime": "2015-03-25T12:00:00Z"
+                }
+            ],
+
+            "picturesPath": "",
+            "price": 170000000,
+            "isProminent": [{
+                "reporter":{
+                    "phonenumber": "+34623100616",
+                    "names": "Oscar",
+                    "surnames": "Orellana Gonzalez"
+                },
+                "datetime": "2015-03-25T12:00:00Z"
+            }],
+            "contacts": [
+                {
+                    "phonenumber": "fake contact phonenumber 1",
+                    "name": "fake contact name 1"
+                },
+                {
+                    "phonenumber": "fake contact phonenumber 2",
+                    "name": "hola"
+                }
+            ],
+            "datetimeCreated": "2015-03-25T12:00:00Z",
+            "reporter":{
+                "phonenumber": "+34623100616",
+                "names": "Oscar",
+                "surnames": "Orellana Gonzalez"
+            },
+            "enabled": false
+        },
+        {
+            "idProperty": "med-1-8",
+            "cityCode": "MED",
+            "comunaNumber": 1,
+            "zone": "fake zone",
+            "areaInSquareMeters": 100,
+            "address": "fake address",
+            "roomsNumber": 2,
+            "bathroomsNumber": 1,
+            "garagesNumber": 0,
+            "propertyTypeId": "house",
+            "propertyStateId": "in construction",
+            "additionalNotes": [
+                {
+                    "reporter":{
+                        "phonenumber": "+34623100616",
+                        "names": "Oscar",
+                        "surnames": "Orellana Gonzalez"
+                    },
+                    "note": "fake note",
+                    "datetime": "2015-03-25T12:00:00Z"
+                }
+            ],
+
+            "picturesPath": "",
+            "price": 170000000,
+            "isProminent": [{
+                "reporter":{
+                    "phonenumber": "+34623100616",
+                    "names": "Oscar",
+                    "surnames": "Orellana Gonzalez"
+                },
+                "datetime": "2015-03-25T12:00:00Z"
+            }],
+            "contacts": [
+                {
+                    "phonenumber": "fake contact phonenumber 1",
+                    "name": "fake contact name 1"
+                },
+                {
+                    "phonenumber": "fake contact phonenumber 2",
+                    "name": "hola"
+                }
+            ],
+            "datetimeCreated": "2015-03-25T12:00:00Z",
+            "reporter":{
+                "phonenumber": "+34623100616",
+                "names": "Oscar",
+                "surnames": "Orellana Gonzalez"
+            },
+            "enabled": false
+        },
+        {
+            "idProperty": "med-1-9",
+            "cityCode": "MED",
+            "comunaNumber": 1,
+            "zone": "fake zone",
+            "areaInSquareMeters": 100,
+            "address": "fake address",
+            "roomsNumber": 2,
+            "bathroomsNumber": 1,
+            "garagesNumber": 0,
+            "propertyTypeId": "house",
+            "propertyStateId": "in construction",
+            "additionalNotes": [
+                {
+                    "reporter":{
+                        "phonenumber": "+34623100616",
+                        "names": "Oscar",
+                        "surnames": "Orellana Gonzalez"
+                    },
+                    "note": "fake note",
+                    "datetime": "2015-03-25T12:00:00Z"
+                }
+            ],
+
+            "picturesPath": "",
+            "price": 170000000,
+            "isProminent": [{
+                "reporter":{
+                    "phonenumber": "+34623100616",
+                    "names": "Oscar",
+                    "surnames": "Orellana Gonzalez"
+                },
+                "datetime": "2015-03-25T12:00:00Z"
+            }],
+            "contacts": [
+                {
+                    "phonenumber": "fake contact phonenumber 1",
+                    "name": "fake contact name 1"
+                },
+                {
+                    "phonenumber": "fake contact phonenumber 2",
+                    "name": "hola"
+                }
+            ],
+            "datetimeCreated": "2015-03-25T12:00:00Z",
+            "reporter":{
+                "phonenumber": "+34623100616",
+                "names": "Oscar",
+                "surnames": "Orellana Gonzalez"
+            },
+            "enabled": false
+        },
+        {
+            "idProperty": "med-1-10",
+            "cityCode": "MED",
+            "comunaNumber": 1,
+            "zone": "fake zone",
+            "areaInSquareMeters": 100,
+            "address": "fake address",
+            "roomsNumber": 2,
+            "bathroomsNumber": 1,
+            "garagesNumber": 0,
+            "propertyTypeId": "house",
+            "propertyStateId": "in construction",
+            "additionalNotes": [
+                {
+                    "reporter":{
+                        "phonenumber": "+34623100616",
+                        "names": "Oscar",
+                        "surnames": "Orellana Gonzalez"
+                    },
+                    "note": "fake note",
+                    "datetime": "2015-03-25T12:00:00Z"
+                }
+            ],
+
+            "picturesPath": "",
+            "price": 170000000,
+            "isProminent": [{
+                "reporter":{
+                    "phonenumber": "+34623100616",
+                    "names": "Oscar",
+                    "surnames": "Orellana Gonzalez"
+                },
+                "datetime": "2015-03-25T12:00:00Z"
+            }],
+            "contacts": [
+                {
+                    "phonenumber": "fake contact phonenumber 1",
+                    "name": "fake contact name 1"
+                },
+                {
+                    "phonenumber": "fake contact phonenumber 2",
+                    "name": "hola"
+                }
+            ],
+            "datetimeCreated": "2015-03-25T12:00:00Z",
+            "reporter":{
+                "phonenumber": "+34623100616",
+                "names": "Oscar",
+                "surnames": "Orellana Gonzalez"
+            },
+            "enabled": false
+        },
+        {
+            "idProperty": "med-1-11",
+            "cityCode": "MED",
+            "comunaNumber": 1,
+            "zone": "fake zone",
+            "areaInSquareMeters": 100,
+            "address": "fake address",
+            "roomsNumber": 2,
+            "bathroomsNumber": 1,
+            "garagesNumber": 0,
+            "propertyTypeId": "house",
+            "propertyStateId": "in construction",
+            "additionalNotes": [
+                {
+                    "reporter":{
+                        "phonenumber": "+34623100616",
+                        "names": "Oscar",
+                        "surnames": "Orellana Gonzalez"
+                    },
+                    "note": "fake note",
+                    "datetime": "2015-03-25T12:00:00Z"
+                }
+            ],
+
+            "picturesPath": "",
+            "price": 170000000,
+            "isProminent": [{
+                "reporter":{
+                    "phonenumber": "+34623100616",
+                    "names": "Oscar",
+                    "surnames": "Orellana Gonzalez"
+                },
+                "datetime": "2015-03-25T12:00:00Z"
+            }],
+            "contacts": [
+                {
+                    "phonenumber": "fake contact phonenumber 1",
+                    "name": "fake contact name 1"
+                },
+                {
+                    "phonenumber": "fake contact phonenumber 2",
+                    "name": "hola"
+                }
+            ],
+            "datetimeCreated": "2015-03-25T12:00:00Z",
+            "reporter":{
+                "phonenumber": "+34623100616",
+                "names": "Oscar",
+                "surnames": "Orellana Gonzalez"
+            },
+            "enabled": false
+        },
+        {
+            "idProperty": "med-1-12",
+            "cityCode": "MED",
+            "comunaNumber": 1,
+            "zone": "fake zone",
+            "areaInSquareMeters": 100,
+            "address": "fake address",
+            "roomsNumber": 2,
+            "bathroomsNumber": 1,
+            "garagesNumber": 0,
+            "propertyTypeId": "house",
+            "propertyStateId": "in construction",
+            "additionalNotes": [
+                {
+                    "reporter":{
+                        "phonenumber": "+34623100616",
+                        "names": "Oscar",
+                        "surnames": "Orellana Gonzalez"
+                    },
+                    "note": "fake note",
+                    "datetime": "2015-03-25T12:00:00Z"
+                }
+            ],
+
+            "picturesPath": "",
+            "price": 170000000,
+            "isProminent": [{
+                "reporter":{
+                    "phonenumber": "+34623100616",
+                    "names": "Oscar",
+                    "surnames": "Orellana Gonzalez"
+                },
+                "datetime": "2015-03-25T12:00:00Z"
+            }],
+            "contacts": [
+                {
+                    "phonenumber": "fake contact phonenumber 1",
+                    "name": "fake contact name 1"
+                },
+                {
+                    "phonenumber": "fake contact phonenumber 2",
+                    "name": "hola"
+                }
+            ],
+            "datetimeCreated": "2015-03-25T12:00:00Z",
+            "reporter":{
+                "phonenumber": "+34623100616",
+                "names": "Oscar",
+                "surnames": "Orellana Gonzalez"
+            },
+            "enabled": false
         }
     ]
 }
